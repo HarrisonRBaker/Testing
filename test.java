@@ -9,7 +9,7 @@ public class test
 {
     public static void main(String[]args){
         difficulty();
-
+        System.out.println("Done!");
     }
 
     public static void difficulty(){
